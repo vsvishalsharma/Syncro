@@ -16,13 +16,13 @@ export default function Footer() {
           <a href="/privacy" className="text-neutral-400 hover:text-white transition">Privacy Policy</a>
         </div>
         <div className="flex mt-4 md:mt-0 gap-6">
-          <a href="https://github.com/your-profile" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-white transition">
+          <a href="https://github.com/vsvishalsharma/blazeAt" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-white transition">
             <FaGithub size={24} />
           </a>
-          <a href="https://linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-white transition">
+          <a href="https://www.linkedin.com/in/vsvishalsharma777/" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-white transition">
             <FaLinkedin size={24} />
           </a>
-          <a href="https://twitter.com/your-profile" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-white transition">
+          <a href="https://x.com/vishal_shrmaa" target="_blank" rel="noopener noreferrer" className="text-neutral-400 hover:text-white transition">
             <FaTwitter size={24} />
           </a>
         </div>
